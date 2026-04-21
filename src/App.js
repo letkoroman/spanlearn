@@ -11,7 +11,6 @@ const ORANGE_BG = "#FFF3E0";
 const PURPLE = "#CE82FF";
 const PURPLE_BG = "#F5EEFF";
 const GRAY = "#AFAFAF";
-const CARD_BG = "#FFFFFF";
 
 export default function App() {
   const [word, setWord] = useState("");
